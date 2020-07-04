@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14664" started-at="2020-07-04T02:32:43 EET" finished-at="2020-07-04T02:32:58 EET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14664" started-at="2020-07-04T02:32:43 EET" finished-at="2020-07-04T02:32:58 EET">
+      <class name="gocardTask.TestRegistrationwithbefore">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:gocardTask.TestRegistrationwithbefore@57536d79]" name="Setup" is-config="true" duration-ms="7234" started-at="2020-07-04T02:32:43 EET" finished-at="2020-07-04T02:32:51 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="TestregistrationWithvalidinput()[pri:1, instance:gocardTask.TestRegistrationwithbefore@57536d79]" name="TestregistrationWithvalidinput" duration-ms="3444" started-at="2020-07-04T02:32:51 EET" finished-at="2020-07-04T02:32:54 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestregistrationWithvalidinput -->
+        <test-method status="PASS" signature="zTestregistrationWithemailalreadyexist()[pri:2, instance:gocardTask.TestRegistrationwithbefore@57536d79]" name="zTestregistrationWithemailalreadyexist" duration-ms="3336" started-at="2020-07-04T02:32:54 EET" finished-at="2020-07-04T02:32:57 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- zTestregistrationWithemailalreadyexist -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:gocardTask.TestRegistrationwithbefore@57536d79]" name="tearDown" is-config="true" duration-ms="625" started-at="2020-07-04T02:32:57 EET" finished-at="2020-07-04T02:32:58 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- gocardTask.TestRegistrationwithbefore -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
